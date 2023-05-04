@@ -1,0 +1,5 @@
+nom=(input("entrer votre nom"))
+prenom=(input("entrer votre prenom"))
+postnom=(input("entrer votre postnom "))
+age=int(input("entrer votre age"))
+print(f"bonjour{nom}{prenom}{postnom} vous avez{age}ans")
